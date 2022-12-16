@@ -1,5 +1,8 @@
 {
-  "name": "goetas-webservices/soap-reader",
+  "name": "b2bcenter/soap-reader",
+  "replace": {
+    "goetas-webservices/soap-reader": "^0.3"
+  },
   "description": "SOAP reader",
   "type": "library",
   "authors": [
